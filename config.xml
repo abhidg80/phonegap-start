@@ -4,14 +4,14 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>DataGold First PhoneGap App</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		A PhoneGap App from DataGold
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
+	<author href="http://www.datagoldonline.com"
+		email="abhishek@datagoldonline.com">
 		Andrew Lunny
 	</author>
 
